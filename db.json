@@ -8,17 +8,19 @@
             "color": [
                 "Red", "Blue"
             ],
-            "price": 100
-        }
+            "price": 100,
+            "image": "/Users/dru_opp/Development/code/phase-1/soul-shoes/images/Notes_230604_100312.jpg"
+        },
         {
             "id": 2,
-            "size": ["13 W", "12", "11", "10"],,
+            "size": ["13 W", "12", "11", "10"],
             "brand": "Asics",
             "style": "Running",
             "color": [
                 "Black", "Gray"
             ],
-            "price": 70
+            "price": 70,
+            "image": "/Users/dru_opp/Development/code/phase-1/soul-shoes/images/Screenshot.png"
         }
     ]
 }
